@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72b2be7f-77ac-4042-bf0e-d6bf970ff341" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Restaurants/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Restaurants/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Restaurants.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Restaurants.API/Controllers/WeatherForecastController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Restaurants.API/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Restaurants.API/Properties/launchSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Restaurants.API/Restaurants.API.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Restaurants.API/Restaurants.API.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Restaurants.API/WeatherForecast.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Restaurants.API/appsettings.Development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Restaurants.API/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Restaurants.Application/Restaurants.Application.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Restaurants.Domain/Entities/Address.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Restaurants.Domain/Entities/Dish.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Restaurants.Domain/Entities/Restaurant.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Restaurants.Domain/Restaurants.Domain.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Restaurants.Infrastructure/Migrations/20240605013218_Initial.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Restaurants.Infrastructure/Migrations/20240605013218_Initial.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Restaurants.Infrastructure/Migrations/RestaurantsDbContextModelSnapshot.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Restaurants.Infrastructure/Persistence/RestaurantsDbContext.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Restaurants.Infrastructure/Restaurants.Infrastructure.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Restaurants.sln" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2hP1TFduehUzVYCcXEKadOkVhjb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenDatabaseViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/tanng"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "sqlserver"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+</project>
